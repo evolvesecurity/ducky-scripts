@@ -4,7 +4,7 @@ A collection of scripts for HAK5's USB Rubber Ducky
 # Duck Encoder
 1. Download the encoder with pip
 
-  `pip install ducktoolkit`
+  `$ pip install ducktoolkit`
 
 2. Run the encoder on your payload
 
@@ -12,7 +12,7 @@ A collection of scripts for HAK5's USB Rubber Ducky
 
 # Misc.
 
-* The first time the Rubber Ducky is plugged into a OS X system, the _new keyboard discovered_ prompt will appear.
+* The first time the Rubber Ducky is plugged into an OS X system, the _new keyboard discovered_ prompt will appear.
 
 # Contributing
 
