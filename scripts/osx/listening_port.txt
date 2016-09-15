@@ -1,5 +1,5 @@
 REM Purpose: Open a port with netcat that listens as a background process and hides the history
-REM Notes: If the OSX firewall is turned on the, there may be a pop-up prompt to allow or deny incoming connections
+REM Notes: If the OSX firewall is turned on, there may be a pop-up prompt to allow or deny incoming connections
 DELAY 100
 COMMAND SPACE
 DELAY 500
