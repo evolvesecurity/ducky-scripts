@@ -17,3 +17,7 @@ A collection of scripts for HAK5's USB Rubber Ducky
 # Contributing
 
 Contribution is encouraged! All scripts should include a comment that defines the script's purpose.  
+
+# Legal
+
+It is unlawful to access a computer without authority. These scripts should only be used for ethical security engagements and research. 
